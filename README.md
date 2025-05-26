@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻I'm currently working on Semester Project 2<br>💻Currently learning front-end development<br>🪡On my spare time i love to sew<br>💬Talk to me <br>
+👩‍💻I'm currently working on Semester Project 2<br>💻Currently learning front-end development<br>✂️On my spare time i love to sew<br>💬Talk to me <br>
 
 
 ## 🌐 Socials:
