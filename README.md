@@ -1,5 +1,31 @@
-# 💫 About Me:
-👩‍💻I'm currently working on Project Exam 2<br>💻Currently learning front-end development<br>✂️On my spare time i love to sew<br>💬Talk to me <br>
+# About
+
+I am Mia Texnes, a front-end student at Noroff. Portfolio 2 collects three course projects: a small social app, a shop, and an auction site.
+
+Portfolio 2:
+
+## Projects
+
+### ConnectSphere
+
+CSS Frameworks. Log in, read a feed, and view a profile.
+
+- Live site: https://connect-sphere1.netlify.app/
+- Repository: https://github.com/MiaTexnes/connectsphere/tree/css-frameworks
+
+### Loot Locker
+
+JavaScript Frameworks. A shop with search, sort, and a cart that stays after a refresh.
+
+- Live site: https://lootlocker.netlify.app/
+- Repository: https://github.com/NoroffFEU/jsfw-2025-v1-mia-js-frameworks
+
+### Pink Gavel Auctions
+
+Semester Project 2. Guests can browse auctions. Students with a Noroff email can list items, place bids, and manage a profile.
+
+- Live site: https://pinkgavel.netlify.app/
+- Repository: https://github.com/MiaTexnes/Auction-House-Pink-Gavel
 
 
 ## 🌐 Socials:
