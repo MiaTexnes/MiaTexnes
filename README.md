@@ -2,7 +2,7 @@
 
 I am Mia Texnes, a front-end student at Noroff. Portfolio 2 collects three course projects: a small social app, a shop, and an auction site.
 
-Portfolio 2:
+Portfolio 2: https://miatexnes-portfolio-2.netlify.app/
 
 ## Projects
 
